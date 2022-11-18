@@ -14,8 +14,8 @@
   {
     "id": 102,
     "title": "Pazartesi Öğleden Sonra",
-    "startDate": "2022-11-23T14:30:00.000Z",
-    "endDate": "2022-11-23T15:00:00.000Z",
+    "startDate": "2022-11-23T09:30:00.000Z",
+    "endDate": "2022-11-23T11:00:00.000Z",
     "city": 1,
     "precision": 1,
     "repeat": true,
