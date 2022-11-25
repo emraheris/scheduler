@@ -3,8 +3,8 @@
   {
     "id": 101,
     "title": "Pazartesi Öğleden Önce",
-    "startDate": "2022-11-21T9:30:00.000Z",
-    "endDate": "2022-11-21T10:30:00.000Z",
+    "startDate": "2022-12-02T9:30:00.000Z",
+    "endDate": "2022-12-02T11:30:00.000Z",
     "city": 1,
     "precision": 5,
     "repeat": true,
@@ -14,8 +14,8 @@
   {
     "id": 102,
     "title": "Pazartesi Öğleden Sonra",
-    "startDate": "2022-11-23T09:30:00.000Z",
-    "endDate": "2022-11-23T11:00:00.000Z",
+    "startDate": "2022-12-10T09:30:00.000Z",
+    "endDate": "2022-12-10T11:00:00.000Z",
     "city": 1,
     "precision": 1,
     "repeat": true,
@@ -25,8 +25,8 @@
   {
     "id": 103,
     "title": "Salı Öğleden Önce",
-    "startDate": "2022-11-25T13:00:00.000Z",
-    "endDate": "2022-11-25T14:00:00.000Z",
+    "startDate": "2022-12-08T13:00:00.000Z",
+    "endDate": "2022-12-08T14:00:00.000Z",
     "city": 2,
     "precision": 3,
     "repeat": true,
@@ -36,8 +36,8 @@
   {
     "id": 104,
     "title": "Salı Öğleden Sonra",
-    "startDate": "2022-11-27T09:30:00.000Z",
-    "endDate": "2023-04-26T15:00:00.000Z",
+    "startDate": "2022-11-30T09:30:00.000Z",
+    "endDate": "2023-11-30T15:00:00.000Z",
     "city": 2,
     "precision": 7,
     "repeat": false,
